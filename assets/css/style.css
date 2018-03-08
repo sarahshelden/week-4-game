@@ -1,0 +1,52 @@
+
+
+.center {
+
+    text-align: center;
+}
+
+.rules {
+
+    padding: 10px;
+
+}
+
+.wrapper {
+
+    border: 1px solid black;
+
+}
+#start {
+
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+#score{
+
+    padding:10px;
+    font-weight: bold;
+}
+
+#wins {
+
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+
+#losses {
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+
+
+.crystals {
+
+    text-align: center;
+
+}
