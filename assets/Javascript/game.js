@@ -137,7 +137,8 @@ $(document).ready(function () {
         // check if user has lost
         if (yourScore > targetScore) {
             losses++;
-            $("#losses").html("<p> Losses:  </p>");
+            $("#losses").html("<p> Losses: </p>");
+            debugger;
             console.log("user lost");
             initializeVariables();
         }
